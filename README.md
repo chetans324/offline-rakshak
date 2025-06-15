@@ -1,4 +1,5 @@
-Offline Rakshak
+# Offline Rakshak
+
 Overview
 Offline Rakshak is a robust communication solution designed to facilitate critical interactions between individuals and emergency responders—such as doctors, police, and rescue teams—in scenarios where traditional communication networks fail. This project addresses the challenges faced during war zones, natural disasters, or internet shutdowns, where internet and mobile network connectivity are unavailable or unreliable.
 Problem Statement

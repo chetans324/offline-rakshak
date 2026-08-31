@@ -37,9 +37,6 @@ Offline Rakshak provides a decentralized, offline communication platform that en
 # Contribution
 We welcome contributions from developers, researchers, and domain experts. Please refer to the CONTRIBUTING.md file for guidelines on submitting pull requests, reporting issues, or suggesting features.
 
-# License
-This project is licensed under the MIT License.
-
 # Contact
 For inquiries, reach out via the repository's Issues section or contact the project maintainer at chetansain8419@gmail.com .
 
